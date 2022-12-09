@@ -8,7 +8,7 @@ kompege.ru autocomplete utility
 ![alt text](https://sun9-87.userapi.com/impg/4t4WWC-225cSDF_7Z6Y38fGtRoqSfbKzg5NTDw/p9vS41EJ75g.jpg?size=723x293&quality=96&sign=e5045654e8447bd79baf3596e2490b06&type=album) \
 **4.** [на сайте](https://chromedriver.storage.googleapis.com/index.html) ищешь папку со своей версией хрома и скачиваешь `chromedriver_win32.zip` \
 **5.** Распаковываешь `chromedriver.exe` в одну папку с `alt.py` \
-**6.** Через команду `pip install selenium` устанавливаем модуль \
+**6.** Через команду `pip install selenium` устанавливай модуль \
 **7.** В 11ую строку вписываем на место пустых строк свой номер и пароль - \
   `LOGIN, PASSWORD = '88005553535', 'ОбОбороне31мая1996'`\
 **7.** Можно пользоваться топовой програмулей \
